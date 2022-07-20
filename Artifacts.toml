@@ -1,0 +1,10 @@
+[[GDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bcaffd749848c27c41fcf77063033c573b05ca52"
+libc = "glibc"
+os = "linux"
+
+    [[GDB.download]]
+    sha256 = "887703249ae4dc2cec87add36143a6f0065afe842f748146e9b6e7aff679bfb0"
+    url = "https://github.com/maleadt/GDB_jll.jl/releases/download/GDB-v10.1.0+2/GDB.v10.1.0.x86_64-linux-gnu-cxx11.tar.gz"
